@@ -14,51 +14,69 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./imgages/C.png" width="48" height="48" alt="Python" />
+        <img src="./img/html.png" width="48" height="48" alt="HTML" />
       </a>
-      <br>Python
+      <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/css.png" width="78" height="48" alt="48" />
       </a>
-      <br>Python
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/javascript.png" width="48" height="48" alt="javascript" />
       </a>
-      <br>Jsonnet
+      <br>JavaScript.png
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/nodejs.png" width="48" height="48" alt="Node.JS" />
       </a>
-      <br>TypeScript
+      <br>Node.JS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./img/figma.png" width="48" height="48" alt="Figma" />
       </a>
-      <br>Kubernetes
+      <br>Figma
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/mysql.png" width="48" height="48" alt="MySQL" />
       </a>
-      <br>Docker
+      <br>MySQL
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./img/python.png" width="48" height="48" alt="Python" />
       </a>
-      <br>Debian
+      <br>Python
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/c.png" width="48" height="48" alt="C" />
       </a>
-      <br>Grafana
+      <br>C
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/java.jpeg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/flask.png" width="48" height="48" alt="Flask" />
+      </a>
+      <br>Flask
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/elasticsearch.png" width="48" height="48" alt="Elasticsearch" />
+      </a>
+      <br>Elasticsearch
     </td>
   </tr>
 </table>
