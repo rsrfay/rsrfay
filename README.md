@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Russarin Eaimrittikrai (Fay) </h1>
+<h1 align="left" id="macropower-title">:wave: Hello! I'm Russarin Eaimrittikrai (Fay) </h1>
 <h4 align="left"> I'm interested in software engineering and UX/UI designing </h4>
 
 - 🌱 I’m studying in the Faculty of ICT at Mahidol University
