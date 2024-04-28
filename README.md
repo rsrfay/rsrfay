@@ -14,67 +14,67 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/html.png" width="48" height="48" alt="HTML" />
+        <img src="./img/html.png" width="48" height="auto" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/css.png" width="78" height="48" alt="48" />
+        <img src="./img/css.png" width="48" height="auto" alt="48" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript.png" width="48" height="48" alt="javascript" />
+        <img src="./img/javascript.png" width="48" height="auto" alt="javascript" />
       </a>
-      <br>JavaScript.png
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/nodejs.png" width="48" height="48" alt="Node.JS" />
+        <img src="./img/nodejs.png" width="48" height="auto" alt="Node.JS" />
       </a>
       <br>Node.JS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/figma.png" width="48" height="48" alt="Figma" />
+        <img src="./img/figma.png" width="48" height="auto" alt="Figma" />
       </a>
       <br>Figma
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/mysql.png" width="48" height="48" alt="MySQL" />
+        <img src="./img/mysql.png" width="48" height="auto" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/python.png" width="48" height="48" alt="Python" />
+        <img src="./img/python.png" width="48" height="auto" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/c.png" width="48" height="48" alt="C" />
+        <img src="./img/c.png" width="48" height="auto" alt="C" />
       </a>
       <br>C
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/java.jpeg" width="48" height="48" alt="Java" />
+        <img src="./img/java.jpeg" width="48" height="auto" alt="Java" />
       </a>
       <br>Java
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/flask.png" width="48" height="48" alt="Flask" />
+        <img src="./img/flask.png" width="48" height="auto" alt="Flask" />
       </a>
       <br>Flask
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/elasticsearch.png" width="48" height="48" alt="Elasticsearch" />
+        <img src="./img/elasticsearch.png" width="auto" height="48" alt="Elasticsearch" />
       </a>
       <br>Elasticsearch
     </td>
